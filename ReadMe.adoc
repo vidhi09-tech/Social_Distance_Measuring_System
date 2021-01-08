@@ -9,6 +9,12 @@
 Describe your project:
 This system helps people to maintain distance for the specific range.. When the distance between two people is very less. Then automatically a buzzer starts producing sound and show "WEAR MASK, MAINTAIN SOCIAL DISTANCE" on LCD screen.. I will attach my YOUTUBE CHANNEL link. It will give you a quick review that how this system work...
 
+**
+**
+You can copy my sketch online from the given link: https://create.arduino.cc/editor/vidhi_kumari/07f095eb-d909-4964-91f0-1ce7790ba1e5/preview
+**
+**
+
 == Step 1: Installation
 Please describe the steps to install this project.
 
