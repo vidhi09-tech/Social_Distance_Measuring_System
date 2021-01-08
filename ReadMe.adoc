@@ -4,9 +4,10 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: Social Distance Measuring System
 
-Describe your project
+Describe your project:
+This system helps people to maintain distance for the specific range.. When the distance between two people is very less. Then automatically a buzzer starts producing sound and show "WEAR MASK, MAINTAIN SOCIAL DISTANCE" on LCD screen.. I will attach my YOUTUBE CHANNEL link. It will give you a quick review that how this system work...
 
 == Step 1: Installation
 Please describe the steps to install this project.
