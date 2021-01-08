@@ -11,7 +11,7 @@ This system helps people to maintain distance for the specific range.. When the 
 
 **
 **
-You can copy my sketch online from the given link: https://create.arduino.cc/editor/vidhi_kumari/07f095eb-d909-4964-91f0-1ce7790ba1e5/preview
+You can download my sketch online from the given link: https://create.arduino.cc/editor/vidhi_kumari/07f095eb-d909-4964-91f0-1ce7790ba1e5/preview
 **
 **
 
